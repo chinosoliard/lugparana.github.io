@@ -1,4 +1,0 @@
-Sitemap: http://lugparana.github.io/sitemapindex.xml
-
-User-Agent: *
-Host: lugparana.github.io
