@@ -162,7 +162,7 @@ main {
 
       p {
         color: @med-grey;
-        font-size: 0.86em;
+        font-size: 0.82em;
       }
     }
 
@@ -252,6 +252,10 @@ main {
       font-size: 11px;
     }
   }
+
+  .related-posts {
+    border-top: @light-grey 1px solid;
+  }
 }
 
 .tag-cloud {
@@ -274,8 +278,8 @@ main {
 
 a.btn {
   background-color: @orange;
-  padding: .6em .6em;
-  font-size: .8em;
+  padding: .4em .6em;
+  font-size: .9em;
   line-height: 1;
   color: @white;
   text-align: center;
@@ -288,41 +292,15 @@ a.btn:hover {
   background-color: @light-orange;
 }
 
-.center, .text-center {
+.center {
   text-align: center;
-}
-
-.img-center {
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
 }
 
 .float-right {
   float: right;
 }
 
-div.related-posts {
-  margin: 15px 0 15px 0;
-  padding-bottom: 20px;
-  border-top: @light-grey 1px solid;
-  border-bottom: @light-grey 1px solid;
-
-  h4 {
-    margin: 20px 0 25px 0;
-  }
-
-  ul {
-    font-size: 1.1em;
-    padding-left: 12px;
-
-    li {
-      padding: 4px 0 4px 0;
-    }
-  }
-}
-
-ul.list, ul.social, ul.related-posts {
+ul.list, ul.social {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -402,10 +380,6 @@ ul.social {
 
   a.sc-reddit {
     background-color: #ff4500;
-  }
-
-  a.sc-soundcloud {
-    background-color: #ff5500;
   }
 }
 
