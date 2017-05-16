@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>LUG Paraná</title><link href="http://lugparana.org/" rel="alternate"></link><link href="http://lugparana.org/feeds/all.atom.xml" rel="self"></link><id>http://lugparana.org/</id><updated>2017-04-12T00:00:00-03:00</updated><entry><title>A 10 días de FLISoL 2017 Paraná</title><link href="http://lugparana.org/blog/2017/a-dies-dias-flisol-2017-parana.html" rel="alternate"></link><published>2017-04-12T00:00:00-03:00</published><author><name>LUG Paraná</name></author><id>tag:lugparana.org,2017-04-12:blog/2017/a-dies-dias-flisol-2017-parana.html</id><summary type="html">&lt;p&gt;&lt;img alt="banner-flisol-A4.jpg" src="/images/article/2017/banner-flisol-A4.jpg" /&gt;  &lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>LUG Paraná</title><link href="http://lugparana.org/" rel="alternate"></link><link href="http://lugparana.org/feeds/all.atom.xml" rel="self"></link><id>http://lugparana.org/</id><updated>2017-05-15T00:00:00-03:00</updated><entry><title>FLISoL 2017 Sede Paraná</title><link href="http://lugparana.org/blog/2017/flisol-parana-2017.html" rel="alternate"></link><published>2017-05-15T00:00:00-03:00</published><author><name>LUG Paraná</name></author><id>tag:lugparana.org,2017-05-15:blog/2017/flisol-parana-2017.html</id><summary type="html">&lt;p&gt;&lt;img alt="flisol2017parana.jpg" src="/images/article/2017/flisol2017parana.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;Éste año, FLISoL contó con Declaración de Interés por parte del Honorable Consejo Deliberante de la Municipalidad de Paraná &lt;a href="&amp;quot;/images/article/2017/flisol2017-declaracion-interes-1.jpg"&gt;- página 1 -&lt;/a&gt; - &lt;a href="&amp;quot;/images/article/2017/flisol2017-declaracion-interes-2.jpg"&gt;- página 2 -&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Este año contó con muy pocos asistentes, ya que tuvimos muchísimos problemas con la difusión, puesto a que hasta 9 días antes no estabamos seguros de la disponibilidad del lugar, y no teníamos tiempo para reprogramar todo. El cronograma tampoco pudo confirmarse hasta último momento.  &lt;/p&gt;
+&lt;p&gt;Cronograma efectivo:  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Migración a GNU / Linux - Roberto Ronconi  &lt;/li&gt;
+&lt;li&gt;SL es insalubre (humor ™) - Cristian Ramirez  &lt;/li&gt;
+&lt;li&gt;Linux de Bolsillo - José Luis Perez  &lt;/li&gt;
+&lt;li&gt;Infraestructura IT barata con Linux - &lt;a href="http://www.chinosoliard.com"&gt;Chino Soliard&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;Panel/Debate  &lt;/li&gt;
+&lt;li&gt;La cocina de Android - Christian Balda  &lt;/li&gt;
+&lt;li&gt;Linux Para profesionales IT con Fedora - &lt;a href="http://www.chinosoliard.com"&gt;Chino Soliard&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;Introducción a Python - &lt;a href="http://www.gugler.com.ar"&gt;Martín Sbarbaro&lt;/a&gt;  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;En números:  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Asistentes totales: &amp;lt; 20   &lt;/li&gt;
+&lt;li&gt;Instalaciones:  &lt;ul&gt;
+&lt;li&gt;1 Debian  &lt;/li&gt;
+&lt;li&gt;1 Xubuntu  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;7 charlas, y un panel improvisado.  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href="/images/galleries/FLISoL2017" target="_blank"&gt;Galería de fotos&lt;/a&gt;&lt;/h3&gt;</summary><category term="flisol"></category></entry><entry><title>A 10 días de FLISoL 2017 Paraná</title><link href="http://lugparana.org/blog/2017/a-dies-dias-flisol-2017-parana.html" rel="alternate"></link><published>2017-04-12T00:00:00-03:00</published><author><name>LUG Paraná</name></author><id>tag:lugparana.org,2017-04-12:blog/2017/a-dies-dias-flisol-2017-parana.html</id><summary type="html">&lt;p&gt;&lt;img alt="banner-flisol-A4.jpg" src="/images/article/2017/banner-flisol-A4.jpg" /&gt;  &lt;/p&gt;
 &lt;p&gt;Confirmamos el lugar de realización, se realizará en AGMER Seccional Paraná (Laprida 136, Paraná).
 El cronograma empieza a las 10:00 horas, y terminaríamos a las 19:30 horas, para comenzar con la limpieza.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Para más información, y acreditarte, podes entrar en &lt;a href="http://flisol.lugparana.org"&gt;http://flisol.lugparana.org&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</summary><category term="flisol"></category></entry><entry><title>Reunión Organizativa FLISoL 2017</title><link href="http://lugparana.org/blog/2017/reunion-organizativa-flisol-2017.html" rel="alternate"></link><published>2017-03-27T00:00:00-03:00</published><author><name>LUG Paraná</name></author><id>tag:lugparana.org,2017-03-27:blog/2017/reunion-organizativa-flisol-2017.html</id><summary type="html">&lt;p&gt;&lt;img alt="reunion-organizativa-flisol-2017.jpg" src="/images/article/2017/reunion-organizativa-flisol-2017.jpg" /&gt;  &lt;/p&gt;
